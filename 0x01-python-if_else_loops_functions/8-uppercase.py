@@ -5,6 +5,6 @@ def uppercase(str):
         if i >= 'a' and i <= 'z':
             new_str = new_str + chr((ord(i) - 32))
         else:
-            new_str = new_str +
+            new_str = new_str + i
 
     print("{}".format(new_str))
