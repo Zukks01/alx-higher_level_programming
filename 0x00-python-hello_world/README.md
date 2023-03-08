@@ -1,14 +1,5 @@
 0x00. Python - Hello, World
 
-Author's Details:
-
-Name: Karlie Moyo
-
-Email: karlieemoyo@gmail.com
-
-Tel: +27844775229
-
-
 Requirements:
 
 Python Scripts
@@ -59,8 +50,4 @@ Learn about the Zen of Python. How to use the Python interpreter. How to print t
     10. Linked list cycle - Write a function in C that checks if a singly linked list has a cycle in it. - 10-check_cycle.c, lists.h.
     11. Hello, write - Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line. - 100-write.py
     12. Compile - Write a script that compiles a Python script file. - 101-compile.
-    13. ByteCode -> Python #1 - Write the Python function def magic_calculation(a, b): that does exactly the same as the given Python bytecode. - 102-magic_calculation.py.
-
-Collaborate
-
-To collaborate, reach me through my email address karlieemoyo@gmail.com
+    13. ByteCode -> Python #1 - Write the Python function def magic_calculation(a, b): that does exactly the same as the given Python bytecode. - 102-magic_calculation.py
